@@ -1,1 +1,4 @@
-#Crie um programa que exiba as seguintes informações, cada uma em uma linha:
+print("mauro")
+print("Computação")
+print("IFPI")
+      
